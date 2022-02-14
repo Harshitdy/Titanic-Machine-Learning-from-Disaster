@@ -39,9 +39,9 @@ Show a simple example of an analysis of the Titanic disaster in Python using a f
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
-    +   Logistic Regression Model
-    +   Plotting results
-    +   predicting the results on test data
-    +   accuracy_score
+*    Logistic Regression Model
+*    Plotting results
+*    predicting the results on test data
+*    accuracy_score
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
