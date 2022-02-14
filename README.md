@@ -29,7 +29,7 @@ To run this notebook interactively:
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 
 ### Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+Showing a simple example of an analysis of the Titanic disaster in Python and prediction the chance of person to survive in that disaster using the data of all the persons.
 
 #### This Notebook will show basic examples of:
 #### Data Handling
